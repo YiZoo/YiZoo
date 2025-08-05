@@ -1,16 +1,16 @@
 ## Hi there 👋, I'm YiZoo.
 
-An AI development engineer and backend engineer.
+An Chinese.
 
 ```python
 class BriefIntroduction:
     position: str = "beijing",
     code_language: str = "python",
-    technologies:dict = {
-        "backend":["Django", "DRF", "FastAPI"],
-        "LLMDev":["Langchain", "Langgraph", "MCP"],
-        "tools":["Celery", "Docker"],
-        "databases":["PostgreSQL", "Redis","Milvus"],
+    technologies: dict = {
+        "backend": ["Django", "DRF", "FastAPI"],
+        "LLMDev": ["Langchain", "Langgraph", "MCP"],
+        "tools": ["Celery", "Docker"],
+        "databases": ["PostgreSQL", "Redis", "Milvus"],
     }
         
 ```
