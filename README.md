@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm YiZoo.
 
-An Chinese.
+A Chinese programmer.
 
 ```python
 class BriefIntroduction:
