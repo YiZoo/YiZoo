@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm YiZoo.
+
+An AI development engineer and backend engineer.
+
+```python
+class BriefIntroduction:
+    position: str = "beijing",
+    code_language: str = "python",
+    technologies:dict = {
+        "backend":["Django", "DRF", "FastAPI"],
+        "LLMDev":["Langchain", "Langgraph", "MCP"],
+        "tools":["Celery", "Docker"],
+        "databases":["PostgreSQL", "Redis","Milvus"],
+    }
+        
+```
+
+I specialize in Python backend and AI fields, with extensive experience in web development, RAG, and Agent projects.
 
 <!--
 **YiZoo/YiZoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
